@@ -3,7 +3,7 @@
     padding: 0;
     font-family: 'Poppins',sans-serif;
     box-sizing: border-box;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body{
@@ -72,6 +72,7 @@ nav button {
     line-height:70px;
     font-weight:600px;
     max-width: 650px;
+    margin-bottom: 20px;
 }
 
 .header-content h3{
@@ -194,8 +195,8 @@ input[type="radio"]{
 }
 .faq .email-signup{
     max-width: 600px; 
-    margin:20px;
-    text-align: center;
+    margin:20px auto 60px;
+    
 
 }
 .faq small{
